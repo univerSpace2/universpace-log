@@ -13,7 +13,7 @@
             <Link to="/" class="text-xl text-gray-800 font-primary">UniverseSpace.log</Link>
           </div>
           <div class="ml-6 flex-shrink-0 flex items-center">
-            <Link to="/profile" class=" text-xl text-gray-600 hover:text-gray-900 px-3 py-2 rounded-md font-medium font-primary">WhO am I?</Link>
+            <Link to="/profile" class=" text-xl text-gray-600 hover:text-gray-900 px-3 py-2 rounded-md font-medium font-primary">WHO am I?</Link>
           </div>
         </div>
       </div>

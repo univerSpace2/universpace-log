@@ -1,8 +1,10 @@
 export interface Post {
-  id: string;
+  id?: string;
   title: string;
-  excerpt: string;
-  date: string;
+  content: string;
+  views?: number;
+  updatedAt?: string;
+  createdAt?: string;
 }
 export interface GuestbookEntry {
   id: string;
